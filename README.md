@@ -1,3 +1,5 @@
+!!!Пока что не доделано
+
 # traffic_light
 
 ## Project setup
